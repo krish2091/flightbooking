@@ -1,2 +1,2 @@
 # flightbooking
-This Application for ticket booking for flights
+This Application is ticket booking for flights
